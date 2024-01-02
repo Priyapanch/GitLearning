@@ -1,0 +1,9 @@
+Glub Jobs Testing
+https://aws.amazon.com/blogs/devops/how-to-unit-test-and-deploy-aws-glue-jobs-using-aws-codepipeline/
+
+Data Quality check
+https://docs.aws.amazon.com/glue/latest/dg/data-quality-using-apis.html
+
+
+Run unit test in aws - etl jobs
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/run-unit-tests-for-python-etl-jobs-in-aws-glue-using-the-pytest-framework.html
